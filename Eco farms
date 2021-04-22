@@ -1,0 +1,208 @@
+<DOCTYPE html!>
+<html>
+<head>
+<title>Organic Farming</title>
+<meta charset="utf-8">
+<style type="text/css">
+body{
+padding:0px;
+margin:0px;
+}
+.topic{
+height:150px;
+width: 85%;
+background-color:#006600;
+color: white;
+font-size: 100px;
+float: right;
+text-align: center;
+}
+.logo{
+padding-left:0px;
+border: 2px #006600 solid;
+width:14.7%;
+}
+.nav{
+float:right;
+height:52px;
+width:85.5%;
+margin:-55px -2px 0px 10px;
+padding-left:2px;
+text-align:center;
+}
+.icon{
+width:20%;
+height:52.5px;
+background-color:white;
+text-align:center;
+border: 2px #006600 solid;
+font-size:25px;
+margin:0px;
+padding:0px;
+}
+.icon:hover{
+text-decoration:underline;
+}
+.img1{
+margin:-3.5px;
+height:463px;
+width:849px;
+float:right;
+opacity:0.5;
+margin-right:0px;
+margin-left:0px;
+}
+.types{
+float:left;
+height:200px;
+width:500px;
+margin-top:-px;
+}
+.collage{
+float:left;
+height:260px;
+width:500px;
+}
+.type1{
+ text-decoration:none; 
+ color:#006600;
+ font-size:20px;
+}
+.vision{
+height:450px;
+width:100%;
+font-size:30px;
+}
+.service{
+height:400px;
+width:100%;
+font-size:30px;
+color:white;
+background-color:#006600;
+}
+.solution{
+height:450px;
+width:100%;
+font-size:30px;
+}
+.team{
+height:500px;
+width:100%;
+font-size:30px;
+color:white;
+background-color:#006600;
+}
+.linkedin{
+text-decoration:none;
+color:white;
+
+}
+linkedin:hover{
+text-decoration:underline;
+}
+footer{
+margin-top:-25px;
+background-color:gray;
+width:100%;
+height:290px;
+color:black;
+text-align: center;
+font-size:30px;
+}
+.flink{
+margin:0px 0px 40px 0px;
+text-decoration:none;
+color:black;
+}
+flink:hover{
+text-decoration:underline;
+}
+.intro{
+}
+</style>
+</head>
+<body>
+<div class="topic" id="top">Eco-Farms & Foods</div>
+<div class="logo"><img src="https://www.designfreelogoonline.com/wp-content/uploads/2017/01/000787-green-field-logo-design-free-farming-logo-maker-02.png" style="height:200px;width: 200px;"></div>
+<table class="nav">
+<td class="icon"><a href="#vision1" style="text-decoration: none; color:#006600">Our Vision</td></a>
+<td class="icon"><a href="#service1" style="text-decoration: none; color:#006600">Our services</td></a>
+<td class="icon"><a href="#solution1" style="text-decoration: none; color:#006600">Solution</td></a>
+<td class="icon"><a href="#team1" style="text-decoration: none; color:#006600">Our Team</td></a>
+<td class="icon"><a href="#foot" style="text-decoration: none; color:#006600">Contact Us</td></a>
+</table>
+<div class="img1" style="background-image: url('https://www.indianfolk.com/wp-content/uploads/2019/04/5-Key-Environmental-Benefits-Of-Organic-Farming-1080x675.jpg')">
+<span style="color:#white; font-size:50px;text-decoration:underline;">About Eco-Farms & Foods</span>
+<p style="color: white;font-size:10px;font-family:Arial, Helvetica, sans-serif;">Eco-Farms & Foods is an agricultural
+ startup. We do give knowledge about the need, methods, requirements of orgainic farming. As we all are aware of the soil pollution and poisonong 
+ of soil minerals due to the inorganic farming methods. So we at Eco-Farms & Foods train the people and make them learn about the organic farming.
+ We also provide the farming equipments, organic fertilizers and manure. Special consultaion is also avialable at Eco-Farms & Foods.</p>
+</div>
+<div class="types">
+<p style="text-decoration:underline; color:#006600; font-size:40px; text-align:center;">Types of Organic Farming</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Organic_farming" class="type1">Pure organic farming</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Integrated_farming" style="text-decoration:none; color:#006600; font-size:20px;">Integrated organic farming</a></li>
+</ul>
+</div>
+<img class="collage" src="https://thumbs.dreamstime.com/b/various-fresh-organic-natural-vegetable-agriculture-collage-various-fresh-organic-natural-vegetable-agriculture-collage-145566715.jpg">
+<hr style="height:3px; background-color:#006600; margin-top:5px;">
+<div class="vision" id="vision1">
+<h1><span style="margin:10px; text-decoration:underline; color:#006600;">Our Vision & Mission</span></h1>
+<p style=" margin:10px; color:#006600;">Eco-Farms & Foods' vision is to contribute to the development of a sustainable food systems based on the organic philosophy and the organic principles.
+ Eco-Farms & Foods contributes with new knowledge, which supports reliability, innovation and development of organic farming and food systems.We will provide
+ an educational experience centered around a sustainable farming model which is healthy for the individual and the environment.​ We will ensure food 
+ accessibility through programs focused on putting the best healthy food possible into the hands of the community and those most in need.  We will
+ encourage a continuation of organic farming methods through training and providing the tools necessary for farm apprentices to move forward in their
+ own pursuit of responsible land stewardship.</p>
+</div>
+<div class="service" id="service1">
+<h1><span style="margin:10px; text-decoration:underline; color:white;">Our Services</span></h1>
+<p style=" margin:80px 10px 0px 10px; color:white;">Eco-Farms & Foods provide its client, the proper knowledge and guidance for organic farming. We provide our client with all neccessary
+equipments to carry out the farming in an organic way. Various fertilizers and different manure are also avialable. Special courses are also available for mewcomers in feild of orgainic farming. 
+Our service is to serve for the betterment of our nature. We at Eco-Farms & Foods are always ready to help you out, so we are always there for our client.  </p>
+</div>
+<div class="service">
+<img src="https://www.countryfarm-lifestyles.com/images/tined-weeder-comb-harrow.jpg" style="height:100%; width:32.5%; padding:0px;">
+<img src="https://www.bentoli.com/wp-content/uploads/2017/07/CommercialFarming-1.jpg" style="height:100%; width:32.5%; padding:0px;">
+<img src="https://www.countryfarm-lifestyles.com/images/tined-weeder-comb-harrow.jpg" style="height:100%; width:32.5%; padding:0px;">
+</div>
+<div class="solution" id="solution1">
+<h1><span style="margin:10px; text-decoration:underline; color:#006600;">Our suggestion for your problems</span></h1>
+<p style=" margin:10px; color:#006600;">It solves the problem of chemical fertilizers going into the groundwater, contaminating fish and frogs, and
+ causing the soil to become void of nutrients and non-arable. The runoff from fertilizers causing algae in lakes and rivers. It poisons fish and aquatic 
+ plants. A switch to organic would increase biological activity in the soil (biodiversity) benefitting the soil with microbes and organic nutrients which
+ enrich the soil, rather than destroy it like pesticides and fertilizers. Eventually we’ll have to feed an additional 300 million people so high tech will
+ be used, only incorporating gm crops is a more likely option than fertilizers and pesticides</p>
+</div>
+<div class="team" id="team1">
+<h1><span style="margin:10px; text-decoration:underline; color:white;">Our Team</span></h1>
+<img src="C:\Users\hp\Desktop\startup2012\Shreya.jpg" style="height:250px;width:300px; margin:-20px 100px 40px 50px;">
+<img src="C:\Users\hp\Desktop\startup2012\shivam.jpg" style="height:250px;width:300px; margin:-20px 100px 40px 40px;">
+<img src="C:\Users\hp\Desktop\startup2012\shubham.jpg" style="height:250px;width:300px; margin:-20px 100px 40px 40px;">
+<div style="height:40px; width:250px;background-color:#006600;margin:-40px 0px 0px 50px;color:white">SHREYA ASTHANA</div>
+<div style="height:40px; width:250px;background-color:#006600;margin:-40px 0px 0px 498px;color:white;">SHIVAM SHARMA</div>
+<div style="height:40px; width:250px;background-color:#006600;margin:-40px 0px 0px 945px;color:white">SHUBHAM AGGARWAL</div>
+<div style="height:40px; width:250px;background-color:white;margin:30px 0px 0px 50px;color:#006600"><a href="" style="color:#006600"></a></div>
+<div style="height:40px; width:250px;background-color:white;margin:-38px 0px 0px 50px;color:#006600; font-size:16px"><a href="https://www.linkedin.com/in/shreya-asthana-343505193" style="color:#006600">https://www.linkedin.com/in/shreya-asthana-343505193</a></div>
+<div style="height:40px; width:250px;background-color:white;margin:-38px 0px 0px 498px;color:#006600; font-size:16px"><a href="https://www.linkedin.com/in/shivam-sharma-b9b660193" style="color:#006600">https://www.linkedin.com/in/shivam-sharma-b9b660193</a></div>
+<div style="height:40px; width:250px;background-color:white;margin:-42px 0px 0px 945px;color:#006600; font-size:16px"><a href="https://www.linkedin.com/in/shubham-aggarwal-764653201" style="color:#006600">https://www.linkedin.com/in/shubham-aggarwal-764653201</a></div>
+<!--<p style="margin:-40px 80px 40px 50px;float:left;">SHREYA ASTHANA</p>
+<p style="margin:-40px 0px 0px 500px;">SHIVAM SHARMA</p>
+<p style="margin:-75px 60px 0px 950px;">SHUBHAM AGGARWAL</p>
+<div><a href="" class="linkedin" style="margin:-40px 0px 40px 50px;float:left;">linkedIn</a></div>
+<a href="" class="linkedin" style="margin:-40px 0px 0px 500px;"></a>
+<a href="" class="linkedin" style="margin:-75px 60px 40px 950px;></a>-->
+</div>
+<footer id="foot">
+<ul type="none" style="margin-top:20px;">
+<li class="flink"><a href="" style="color:black;">Contact Us</a></li>
+<li class="flink"><a href="" style="color:black;">Facebook</a></li>
+<li class="flink"><a href="" style="color:black;"Instagram</a></li>
+<li class="flink"><a href="" style="color:black;">linkedIn</a></li>
+<li class="flink"><a href="" style="color:black;">Progate</a></li>
+</ul>
+<div style="width:100%;height:35px;text-align:center;margin:-10px 0px 15px 0px;background-color:#006600;"><a href="#top" style=" color:white;">BACK TO TOP</a></div>
+</footer>
+</body>
+</html>
